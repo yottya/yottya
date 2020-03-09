@@ -1,0 +1,65 @@
+body {
+    background-image: url("picture/Men_Bodybuilding_Belly_499581.jpg");
+    background-attachment: fixed;
+    background-size: contain;
+}
+.header-logo {
+    font-size: 60px;
+    text-align: center;
+    float: center;
+}
+.header-list li{
+ vertical-align: top;
+ font-size: 10px;
+}
+h1 {
+    font-size: 30px;
+}
+ul {
+    list-style: none;
+}
+h1,li {
+    text-align: left;
+}
+h2 {
+    font-size: 40px;
+    text-align: left;
+}
+li {
+    list-style: none;
+    font-size: 20px;
+    color: rgb(250, 29, 0);
+}
+h3 {
+    font-size: 60px;
+    text-align: center;
+}
+p {
+    float: center;
+    color: rgb(241, 34, 7);
+    font-size: 30px;
+    padding: 20px 100px;
+}
+img {
+    float: left;
+    width: 300px;
+    height: 200px;
+    padding: 50px 20px;
+    clear: center;
+}
+p2 {
+    float: left;
+clear: left;
+font-size: 20px;
+color: rgb(252, 7, 7);
+}
+h4 {
+    font-size: 60px;
+    float: left;
+    clear: left;
+}
+.footer-logo {
+    font-size: 20px;
+    float: right;
+    padding: 80px;
+}
