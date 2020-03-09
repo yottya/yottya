@@ -1,0 +1,74 @@
+body {
+    color: rgb(224, 193, 193);
+    background-image: url("picture/like_the_phoenix-Space_Photo_Wallpaper_1920x1080.jpg");
+}
+.header {
+    font-size: 100px;
+}
+ .header-logo {
+    float: left;
+    font-size: 40px;
+    padding: 20px 20px;
+}
+.header-list li {
+    float: left;
+    font-size: 20px;
+    padding: 50px;
+}
+.title {
+    float: left;
+    font-size: 50px;
+}
+.title {
+    clear: left;
+}
+.contents-item p1,p2,p3 {
+    font-size: 15px;
+}
+.contents-item p1 {
+    text-indent: -1em;
+    padding-left: 2em;
+    font-size: 20px;
+    float: left;
+    clear: left;
+}
+.img {
+    width: 1px;
+    height: 1px;
+    float: right;
+}
+.title span {
+    text-indent: -1em;
+    padding-left: 2em;
+    font-size: 20px;
+}
+
+.contents-item p3 {
+    text-indent: -1em;
+    padding-left: 2em;
+    float: left;
+    clear: left;
+    font-size: 20px;
+}
+.title {
+    font-size: 50px;
+    float: left;
+}
+.footer-logo {
+    padding-top: 50px;
+    float: left;
+    font-size: 30px;
+    clear: left;
+}
+.footer-list {
+    color: red;
+    float: right;
+    font-size: 25px;
+    padding-top: 25px;
+}
+.footer-list li {
+    color: rgb(251, 255, 0);
+}
+span {
+    font-size: 20px;
+}
